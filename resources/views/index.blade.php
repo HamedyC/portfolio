@@ -64,6 +64,7 @@
                 <div class="buttons">
                     <a href="#">A propos de moi</a>
                     <a href="#">Mes projet</a>      
+                    <a href="#">Mon profile</a>  
                     <a href="#">Contact</a>                          
                 </div>
             </div>
